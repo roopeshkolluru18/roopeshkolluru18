@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Roopesh
 
-<!--
-**roopeshkolluru18/roopeshkolluru18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack .NET Developer with 9+ years of experience building scalable web, cloud, and enterprise applications.
 
-Here are some ideas to get you started:
+🚀 Skilled in C#, .NET Core, ASP.NET, Angular, React, SQL Server, Azure, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ AWS Certified Solutions Architect – Associate
+☁️ Microsoft Certified Azure Administrator Associate
+
+🌱 Currently exploring AI, Cloud Architecture, and Microservices.
+
+📫 Reach me at: [roopeshkolluru18@gmail.com](mailto:roopeshkolluru18@gmail.com)
+
+⚡ Passionate about solving real-world problems through technology.
+
